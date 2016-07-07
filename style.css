@@ -1,0 +1,23 @@
+﻿body {
+}
+.jumbotron {
+    background-image: url(lobster-1515460.jpg);
+    background-size: cover;
+}   
+.feature{
+    text-align:center;
+}
+.feature .glyphicon{
+    font-size:400%;
+}
+.feature .glyphicon-apple{
+    color: red;
+}
+.feature .glyphicon-camera{
+    color:blue
+}
+
+.feature .glyphicon-hourglass{
+    color:gold
+}
+
